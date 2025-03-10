@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123",
+      "email": "admin@admin.com",
+      "isAdmin": true
+    },
+    {
+      "id": "2",
+      "username": "johndoe",
+      "password": "password123",
+      "email": "john.doe@example.com",
+      "isAdmin": false
+    },
+    {
+      "id": "3",
+      "username": "janedoe",
+      "password": "securepass456",
+      "email": "jane.doe@example.com",
+      "isAdmin": false
+    },
+    {
+      "id": "4",
+      "username": "bobsmith",
+      "password": "bobpass789",
+      "email": "bob.smith@example.com",
+      "isAdmin": false
+    },
+    {
+      "id": "de2a",
+      "email": "wqrtrqw@gmail.com",
+      "username": "qwf,qwf",
+      "password": "wqfkofwq",
+      "isAdmin": false
+    },
+    {
+      "id": "578f",
+      "email": "wqrqrw@gmail.com",
+      "username": "wqfwqm,o",
+      "password": "123123",
+      "isAdmin": false
+    },
+    {
+      "id": "945e",
+      "email": "fwqqfwqwf@gmail.com",
+      "username": "fwqkofwqko",
+      "password": "wfkqofkwq",
+      "isAdmin": false
+    }
+  ],
+  "travel-plans": [
+    {
+      "id": "3",
+      "name": "Travel Plan 3",
+      "description": "This is a description of travel plan 3",
+      "country": "Italy",
+      "username": "admin"
+    },
+    {
+      "id": "2ac5",
+      "name": "Some Plan",
+      "description": "new planqwrw",
+      "country": "United States",
+      "username": "admin"
+    },
+    {
+      "id": "8437",
+      "name": "qwddwq",
+      "description": "dqwqdwwgqgwq",
+      "country": "United Kingdom",
+      "username": "johndoe"
+    }
+  ]
+}
